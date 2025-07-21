@@ -6,7 +6,7 @@ FreeBGMStorage
 　https://www.youtube.com/@FreeBGMStorage  
   
 Sunoオリジナル楽曲 使用ライセンス（簡易版）  
-Suno Generated Music – Free Use License (Ver. 1.1 / 2025年7月版)  
+Suno Generated Music – Free Use License (Ver. 1.2 / 2025年7月版)  
   
 ✅ 使用許可範囲  
 　この音源は、当チャンネルがフルライセンスを所有し、  
@@ -24,5 +24,6 @@ Suno Generated Music – Free Use License (Ver. 1.1 / 2025年7月版)
 ❌ 禁止事項  
 　以下の行為は禁止とします：  
 　❌ 自分が作成したように虚偽表記する行為（例：「自分で演奏した」と偽る）  
+　❌ 著作権登録（Content IDなど）  
 　❌ Sunoの無料プランや他人の曲を含む音源を混在させたものの再配布  
 　❌ NFTやAI学習素材への使用など、著作人格権を損なう利用  
